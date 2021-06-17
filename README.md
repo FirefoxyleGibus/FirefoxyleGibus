@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FirefoxyleGibus
 - 👀 I’m interested in ... idk
-- 🌱 I’m currently learning cpp, C# (but i'm always learning py3)
+- 🌱 I’m currently learning C++, C# (but i'm always learning py3)
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me ? Go to my twitter ! @FoxyMakeArt
 
